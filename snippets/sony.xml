@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="vendor/sony" name="droncheg/proprietary_vendor_sony" remote="github" />
-  <project path="device/sony/nicki" name="droncheg-nicklas/android_device_sony_nicki" remote="github" />
-  <project path="device/sony/common" name="droncheg/android_device_sony_common" remote="github" />
-  <project path="kernel/sony/Mimori-Kernel" name="Nicklas373/Mimori-Kernel_MSM8227_LineageOS_14.1" remote="github" revision="pre-release" />
+  <!--<project path="vendor/sony" name="droncheg/proprietary_vendor_sony" remote="github" />-->
+  <project path="device/sony/nicki" name="ALGPHELLO/android_device_sony_nicki" remote="github" />
+  <project path="device/sony/common" name="ALGPHELLO/android_device_sony_common" remote="github" />
+  <project path="kernel/sony/android_kernel_sony_msm8x27" name="ALGPHELLO/android_kernel_sony_msm8x27" remote="github" revision="pre-release" />
 </manifest>
